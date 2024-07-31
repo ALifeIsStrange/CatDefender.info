@@ -1,4 +1,5 @@
 # CatDefenderTeam Terms of Service:
+
 **You need to not violates [Discord's ToS](https://discord.com/terms) and/or [Comunity Guidelines](https://discord.com/guidelines),          
 if we see what u violates our rules, or discord rules,         
 we can add you to bot blacklist, even if you have premium,         
