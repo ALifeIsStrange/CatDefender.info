@@ -10,4 +10,4 @@ namely names/ids/permissions/positions/ of channels/roles/server emojis/server a
 **If you want to delete any data of your server from our bot you can contact us on our support server**
 
 [Support Server](https://discord.com/invite/ns9cHrCxmk)          
-© 2023-2024, alifeisstrange | All rights reserved by CatDefender#2151
+© 2023-2024, alifeisstrange | All rights reserved by Cat Defender#2151
