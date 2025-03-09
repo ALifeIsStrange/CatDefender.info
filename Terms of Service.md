@@ -9,4 +9,4 @@ we can revoke your permissions to use these features and use our bot**
 we are not obliged to explain what and how and why.**     
 
 [Support Server](https://discord.com/invite/ns9cHrCxmk)            
-© 2023-2024, alifeisstrange | All rights reserved by Cat Defender#2151
+© 2023-2025, alifeisstrange | All rights reserved by Cat Defender#2151
